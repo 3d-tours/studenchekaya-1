@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node11">
+  <panorama id="node11">
+    <input levelingpitch="0" flat="1" height="3333" cylinder="1" leveltilesize="510" levelingroll="0" width="5000" leveltileurl="tiles/10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="3333" width="5000" preload="0"/>
+      <level predecode="0" height="1666" width="2500" preload="0"/>
+      <level predecode="0" height="833" width="1250" preload="0"/>
+      <level predecode="0" height="416" width="625" preload="0"/>
+      <level predecode="1" height="208" width="312" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="2024:11:09 02:12:02" title="План" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="29.64" skinid="ht_node" description="" pan="38.06" title="" target="" id="Point01" url="{node2}"/>
+      <hotspot tilt="23.56" skinid="ht_node" description="" pan="4.28" title="" target="" id="Point02" url="{node8}"/>
+      <hotspot tilt="13.31" skinid="ht_node" description="" pan="-31.48" title="" target="" id="Point03" url="{node1}"/>
+      <hotspot tilt="-18.31" skinid="ht_node" description="" pan="-13.64" title="" target="" id="Point04" url="{node7}"/>
+      <hotspot tilt="-18.91" skinid="ht_node" description="" pan="3.82" title="" target="" id="Point05" url="{node12}"/>
+      <hotspot tilt="-21.15" skinid="ht_node" description="" pan="-34.58" title="" target="" id="Point06" url="{node6}"/>
+      <hotspot tilt="-26.18" skinid="ht_node" description="" pan="41.63" title="" target="" id="Point07" url="{node5}"/>
+      <hotspot tilt="4.82" skinid="ht_node" description="" pan="48.62" title="" target="" id="Point08" url="{node3}"/>
+      <hotspot tilt="-7.41" skinid="ht_node" description="" pan="51.34" title="" target="" id="Point09" url="{node4}"/>
+      <hotspot tilt="8.63" skinid="ht_node" description="" pan="-66.02" title="" target="" id="Point10" url="{node19}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" height="1250" leveltilesize="510" levelingroll="0" width="1250" leveltileurl="tiles/2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1250" width="1250" preload="0"/>
+      <level predecode="0" height="625" width="625" preload="0"/>
+      <level predecode="1" height="312" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="2024:11:08 23:30:37" title="Прихожая" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="-10.2" skinid="ht_node" description="" pan="63.38" title="" target="" id="Point01" url="{node1}"/>
+      <hotspot tilt="-8.4" skinid="ht_node" description="" pan="1.21" title="" target="" id="Point02" url="{node5}"/>
+      <hotspot tilt="-12.9" skinid="ht_node" description="" pan="-17.64" title="" target="" id="Point03" url="{node3}"/>
+      <hotspot tilt="-29.49" skinid="ht_node" description="" pan="49.04" title="" target="" id="Point04" url="{node8}"/>
+      <hotspot tilt="-2.09" skinid="ht_node" description="" pan="57.59" title="" target="" id="Point05" url="{node7}"/>
+      <hotspot tilt="-85.62" skinid="ht_node" description="" pan="-114.6" title="" target="" id="Point06" url="{node11}"/>
+      <hotspot tilt="33.72" skinid="ht_node" description="" pan="-1.12" title="" target="" id="Point07" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingpitch="0" height="1250" leveltilesize="510" levelingroll="0" width="1250" leveltileurl="tiles/17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1250" width="1250" preload="0"/>
+      <level predecode="0" height="625" width="625" preload="0"/>
+      <level predecode="1" height="312" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="2024:11:23 17:23:49" title="Выключить основной  свет в прихожей" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="35.42" skinid="ht_node" description="" pan="-1.53" title="" target="" id="Point01" url="{node2}"/>
+      <hotspot tilt="-8.46" skinid="ht_node" description="" pan="0.88" title="" target="" id="Point02" url="{node5}"/>
+      <hotspot tilt="-79.88" skinid="ht_node" description="" pan="4.33" title="" target="" id="Point03" url="{node11}"/>
+      <hotspot tilt="-31.82" skinid="ht_node" description="" pan="48.66" title="" target="" id="Point04" url="{node20}"/>
+      <hotspot tilt="-3.27" skinid="ht_node" description="" pan="56.78" title="" target="" id="Point05" url="{node21}"/>
+      <hotspot tilt="-5.56" skinid="ht_node" description="" pan="62.17" title="" target="" id="Point06" url="{node14}"/>
+      <hotspot tilt="-7.81" skinid="ht_node" description="" pan="-15.18" title="" target="" id="Point07" url="{node23}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelingpitch="0" height="1500" leveltilesize="510" levelingroll="0" width="1500" leveltileurl="tiles/1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1500" width="1500" preload="0"/>
+      <level predecode="0" height="750" width="750" preload="0"/>
+      <level predecode="1" height="375" width="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="2024:11:08 23:27:05" title="Гостиная вид от дивана" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="-11.28" skinid="ht_node" description="" pan="169.17" title="" target="" id="Point01" url="{node2}"/>
+      <hotspot tilt="-3.79" skinid="ht_node" description="" pan="179.95" title="" target="" id="Point02" url="{node3}"/>
+      <hotspot tilt="-2.55" skinid="ht_node" description="" pan="-166.76" title="" target="" id="Point03" url="{node5}"/>
+      <hotspot tilt="-5.46" skinid="ht_node" description="" pan="-131.05" title="" target="" id="Point04" url="{node7}"/>
+      <hotspot tilt="-23.92" skinid="ht_node" description="" pan="170.51" title="" target="" id="Point05" url="{node8}"/>
+      <hotspot tilt="-74.2" skinid="ht_node" description="" pan="-161.82" title="" target="" id="Point06" url="{node11}"/>
+      <hotspot tilt="40.82" skinid="ht_node" description="" pan="9.92" title="" target="" id="Point07" url="{node15}"/>
+      <hotspot tilt="41.61" skinid="ht_node" description="" pan="-2.01" title="" target="" id="Point08" url="{node14}"/>
+      <hotspot tilt="0.23" skinid="ht_node" description="" pan="-4.84" title="" target="" id="Point09" url="{node19}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="0" height="1500" leveltilesize="510" levelingroll="0" width="1500" leveltileurl="tiles/3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1500" width="1500" preload="0"/>
+      <level predecode="0" height="750" width="750" preload="0"/>
+      <level predecode="1" height="375" width="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="" title="Гостиная вид от стола" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="-6.02" skinid="ht_node" description="" pan="-36" title="" target="" id="Point01" url="{node7}"/>
+      <hotspot tilt="-19.6" skinid="ht_node" description="" pan="-7.56" title="" target="" id="Point02" url="{node1}"/>
+      <hotspot tilt="-10.71" skinid="ht_node" description="" pan="157.68" title="" target="" id="Point03" url="{node2}"/>
+      <hotspot tilt="-6.51" skinid="ht_node" description="" pan="-179.47" title="" target="" id="Point04" url="{node3}"/>
+      <hotspot tilt="-5.23" skinid="ht_node" description="" pan="-149.73" title="" target="" id="Point05" url="{node5}"/>
+      <hotspot tilt="-70.76" skinid="ht_node" description="" pan="85.39" title="" target="" id="Point06" url="{node11}"/>
+      <hotspot tilt="22.96" skinid="ht_node" description="" pan="-3.19" title="" target="" id="Point07" url="{node18}"/>
+      <hotspot tilt="-0.74" skinid="ht_node" description="" pan="-3.34" title="" target="" id="Point08" url="{node19}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelingpitch="0" height="1250" leveltilesize="510" levelingroll="0" width="1250" leveltileurl="tiles/13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1250" width="1250" preload="0"/>
+      <level predecode="0" height="625" width="625" preload="0"/>
+      <level predecode="1" height="312" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="2024:11:23 16:55:32" title="Вечерний свет гостиная от стола" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="23.58" skinid="ht_node" description="" pan="2.34" title="" target="" id="Point01" url="{node8}"/>
+      <hotspot tilt="-76.05" skinid="ht_node" description="" pan="142.54" title="" target="" id="Point02" url="{node11}"/>
+      <hotspot tilt="-6.68" skinid="ht_node" description="" pan="160.38" title="" target="" id="Point03" url="{node13}"/>
+      <hotspot tilt="-4.46" skinid="ht_node" description="" pan="-145.72" title="" target="" id="Point04" url="{node5}"/>
+      <hotspot tilt="-5.08" skinid="ht_node" description="" pan="-36.29" title="" target="" id="Point05" url="{node17}"/>
+      <hotspot tilt="-4.04" skinid="ht_node" description="" pan="-2.28" title="" target="" id="Point06" url="{node19}"/>
+      <hotspot tilt="24.17" skinid="ht_node" description="" pan="-5.67" title="" target="" id="Point07" url="{node20}"/>
+      <hotspot tilt="-4.93" skinid="ht_node" description="" pan="179.84" title="" target="" id="Point08" url="{node23}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" height="1500" leveltilesize="510" levelingroll="0" width="1500" leveltileurl="tiles/4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1500" width="1500" preload="0"/>
+      <level predecode="0" height="750" width="750" preload="0"/>
+      <level predecode="1" height="375" width="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="" title="Санузел" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="-9.45" skinid="ht_node" description="" pan="-116.94" title="" target="" id="Point01" url="{node2}"/>
+      <hotspot tilt="-4.33" skinid="ht_node" description="" pan="74.85" title="" target="" id="Point02" url="{node4}"/>
+      <hotspot tilt="9.09" skinid="ht_node" description="" pan="90.84" title="" target="" id="Point03" url="{node9}"/>
+      <hotspot tilt="-87.42" skinid="ht_node" description="" pan="24.95" title="" target="" id="Point04" url="{node11}"/>
+      <hotspot tilt="65.02" skinid="ht_node" description="" pan="5.1" title="" target="" id="Point05" url="{node23}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" height="1500" leveltilesize="510" levelingroll="0" width="1500" leveltileurl="tiles/5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1500" width="1500" preload="0"/>
+      <level predecode="0" height="750" width="750" preload="0"/>
+      <level predecode="1" height="375" width="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="" title="Душевая" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="-1.25" skinid="ht_node" description="" pan="-85.32" title="" target="" id="Point01" url="{node3}"/>
+      <hotspot tilt="-4.24" skinid="ht_node" description="" pan="-103.46" title="" target="" id="Point02" url="{node2}"/>
+      <hotspot tilt="-0.6" skinid="ht_node" description="" pan="105.97" title="" target="" id="Point03" url="{node10}"/>
+      <hotspot tilt="-86.34" skinid="ht_node" description="" pan="67.77" title="" target="" id="Point04" url="{node11}"/>
+      <hotspot tilt="78.15" skinid="ht_node" description="" pan="23.5" title="" target="" id="Point05" url="{node24}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" height="1500" leveltilesize="510" levelingroll="0" width="1500" leveltileurl="tiles/6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1500" width="1500" preload="0"/>
+      <level predecode="0" height="750" width="750" preload="0"/>
+      <level predecode="1" height="375" width="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="" title="Кухня" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="-4.06" skinid="ht_node" description="" pan="169.07" title="" target="" id="Point01" url="{node2}"/>
+      <hotspot tilt="-83.59" skinid="ht_node" description="" pan="63.37" title="" target="" id="Point02" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" height="1500" leveltilesize="510" levelingroll="0" width="1500" leveltileurl="tiles/9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1500" width="1500" preload="0"/>
+      <level predecode="0" height="750" width="750" preload="0"/>
+      <level predecode="1" height="375" width="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="2024:11:09 00:37:01" title="Гардеробная" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="-9.73" skinid="ht_node" description="" pan="133.4" title="" target="" id="Point01" url="{node7}"/>
+      <hotspot tilt="-66.31" skinid="ht_node" description="" pan="3.47" title="" target="" id="Point02" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="0" height="1500" leveltilesize="510" levelingroll="0" width="1500" leveltileurl="tiles/7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1500" width="1500" preload="0"/>
+      <level predecode="0" height="750" width="750" preload="0"/>
+      <level predecode="1" height="375" width="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="2024:11:09 01:08:43" title="Спальня" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="-2.76" skinid="ht_node" description="" pan="-135.17" title="" target="" id="Point01" url="{node6}"/>
+      <hotspot tilt="-2.09" skinid="ht_node" description="" pan="-87.54" title="" target="" id="Point02" url="{node1}"/>
+      <hotspot tilt="-28.14" skinid="ht_node" description="" pan="-0.19" title="" target="" id="Point03" url="{node12}"/>
+      <hotspot tilt="-83.89" skinid="ht_node" description="" pan="37.81" title="" target="" id="Point04" url="{node11}"/>
+      <hotspot tilt="36.07" skinid="ht_node" description="" pan="4.86" title="" target="" id="Point05" url="{node16}"/>
+      <hotspot tilt="36.05" skinid="ht_node" description="" pan="-8.26" title="" target="" id="Point06" url="{node21}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingpitch="0" height="1250" leveltilesize="510" levelingroll="0" width="1250" leveltileurl="tiles/14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1250" width="1250" preload="0"/>
+      <level predecode="0" height="625" width="625" preload="0"/>
+      <level predecode="1" height="312" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="2024:11:23 16:55:22" title="Вечерний свет спальня" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="-4.65" skinid="ht_node" description="" pan="-87.84" title="" target="" id="Point01" url="{node15}"/>
+      <hotspot tilt="-6.11" skinid="ht_node" description="" pan="-138.15" title="" target="" id="Point02" url="{node6}"/>
+      <hotspot tilt="-80.74" skinid="ht_node" description="" pan="-69.71" title="" target="" id="Point03" url="{node11}"/>
+      <hotspot tilt="34.64" skinid="ht_node" description="" pan="7.93" title="" target="" id="Point04" url="{node7}"/>
+      <hotspot tilt="35.35" skinid="ht_node" description="" pan="-4.84" title="" target="" id="Point05" url="{node21}"/>
+      <hotspot tilt="-29.13" skinid="ht_node" description="" pan="0.57" title="" target="" id="Point06" url="{node17}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingpitch="0" height="1500" leveltilesize="510" levelingroll="0" width="1500" leveltileurl="tiles/8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1500" width="1500" preload="0"/>
+      <level predecode="0" height="750" width="750" preload="0"/>
+      <level predecode="1" height="375" width="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="2024:11:09 01:55:55" title="Спальня Вид от кровати" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="-31.24" skinid="ht_node" description="" pan="-0.65" title="" target="" id="Point01" url="{node7}"/>
+      <hotspot tilt="-6.13" skinid="ht_node" description="" pan="11.44" title="" target="" id="Point02" url="{node6}"/>
+      <hotspot tilt="-5.12" skinid="ht_node" description="" pan="42.67" title="" target="" id="Point03" url="{node1}"/>
+      <hotspot tilt="-71.49" skinid="ht_node" description="" pan="20.02" title="" target="" id="Point04" url="{node11}"/>
+      <hotspot tilt="36.93" skinid="ht_node" description="" pan="9.07" title="" target="" id="Point05" url="{node17}"/>
+      <hotspot tilt="37.85" skinid="ht_node" description="" pan="-1.9" title="" target="" id="Point06" url="{node22}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelingpitch="0" height="1250" leveltilesize="510" levelingroll="0" width="1250" leveltileurl="tiles/15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1250" width="1250" preload="0"/>
+      <level predecode="0" height="625" width="625" preload="0"/>
+      <level predecode="1" height="312" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="2024:11:23 16:55:14" title="Вечерний свет Спальня вид от кровати" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="35.69" skinid="ht_node" description="" pan="10.11" title="" target="" id="Point01" url="{node12}"/>
+      <hotspot tilt="-3.27" skinid="ht_node" description="" pan="11.01" title="" target="" id="Point02" url="{node6}"/>
+      <hotspot tilt="-3.63" skinid="ht_node" description="" pan="41.44" title="" target="" id="Point03" url="{node15}"/>
+      <hotspot tilt="-65.45" skinid="ht_node" description="" pan="6.62" title="" target="" id="Point04" url="{node11}"/>
+      <hotspot tilt="35.95" skinid="ht_node" description="" pan="-0.88" title="" target="" id="Point05" url="{node22}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingpitch="0" height="1500" leveltilesize="510" levelingroll="0" width="1500" leveltileurl="tiles/4 1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1500" width="1500" preload="0"/>
+      <level predecode="0" height="750" width="750" preload="0"/>
+      <level predecode="1" height="375" width="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="" title="Стеклянные полки санузел" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="10.49" skinid="ht_node" description="" pan="92.25" title="" target="" id="Point01" url="{node3}"/>
+      <hotspot tilt="-4.87" skinid="ht_node" description="" pan="-117.29" title="" target="" id="Point02" url="{node2}"/>
+      <hotspot tilt="-83.92" skinid="ht_node" description="" pan="21.27" title="" target="" id="Point03" url="{node11}"/>
+      <hotspot tilt="-1.64" skinid="ht_node" description="" pan="67.55" title="" target="" id="Point04" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingpitch="0" height="1500" leveltilesize="510" levelingroll="0" width="1500" leveltileurl="tiles/5 1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1500" width="1500" preload="0"/>
+      <level predecode="0" height="750" width="750" preload="0"/>
+      <level predecode="1" height="375" width="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="" title="Стеклянные полки душевая" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="-9.3" skinid="ht_node" description="" pan="-88.87" title="" target="" id="Point01" url="{node3}"/>
+      <hotspot tilt="-5.86" skinid="ht_node" description="" pan="-103.29" title="" target="" id="Point02" url="{node2}"/>
+      <hotspot tilt="-1.61" skinid="ht_node" description="" pan="105.24" title="" target="" id="Point03" url="{node4}"/>
+      <hotspot tilt="-81.9" skinid="ht_node" description="" pan="36.26" title="" target="" id="Point04" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingpitch="0" height="1250" leveltilesize="510" levelingroll="0" width="1250" leveltileurl="tiles/16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1250" width="1250" preload="0"/>
+      <level predecode="0" height="625" width="625" preload="0"/>
+      <level predecode="1" height="312" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="2024:11:23 17:24:13" title="Выключить основной свет гостиная вид от дивана" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="40.86" skinid="ht_node" description="" pan="14.82" title="" target="" id="Point01" url="{node1}"/>
+      <hotspot tilt="41.93" skinid="ht_node" description="" pan="-1.18" title="" target="" id="Point02" url="{node15}"/>
+      <hotspot tilt="-8.25" skinid="ht_node" description="" pan="171.1" title="" target="" id="Point03" url="{node13}"/>
+      <hotspot tilt="-3.7" skinid="ht_node" description="" pan="-166.69" title="" target="" id="Point04" url="{node5}"/>
+      <hotspot tilt="-5.91" skinid="ht_url" description="" pan="-129.19" title="" target="_blank" id="Point05" url=""/>
+      <hotspot tilt="-74.25" skinid="ht_node" description="" pan="-76.67" title="" target="" id="Point06" url="{node11}"/>
+      <hotspot tilt="-2.02" skinid="ht_node" description="" pan="-16.87" title="" target="" id="Point07" url="{node19}"/>
+      <hotspot tilt="-3.58" skinid="ht_node" description="" pan="-179.65" title="" target="" id="Point08" url="{node23}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingpitch="0" height="1250" leveltilesize="510" levelingroll="0" width="1250" leveltileurl="tiles/11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1250" width="1250" preload="0"/>
+      <level predecode="0" height="625" width="625" preload="0"/>
+      <level predecode="1" height="312" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="2024:11:23 17:01:40" title="Вечерний свет вид от дивана" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="41.29" skinid="ht_node" description="" pan="15.76" title="" target="" id="Point01" url="{node1}"/>
+      <hotspot tilt="42.73" skinid="ht_node" description="" pan="0.16" title="" target="" id="Point02" url="{node14}"/>
+      <hotspot tilt="-76.76" skinid="ht_node" description="" pan="-64.2" title="" target="" id="Point03" url="{node11}"/>
+      <hotspot tilt="-8.07" skinid="ht_node" description="" pan="-12.97" title="" target="" id="Point04" url="{node19}"/>
+      <hotspot tilt="-3.35" skinid="ht_node" description="" pan="-178.68" title="" target="" id="Point05" url="{node23}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelingpitch="0" height="1250" leveltilesize="510" levelingroll="0" width="1250" leveltileurl="tiles/12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1250" width="1250" preload="0"/>
+      <level predecode="0" height="625" width="625" preload="0"/>
+      <level predecode="1" height="312" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="2024:11:23 17:09:59" title="Балкон" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="-7" skinid="ht_node" description="" pan="-104.19" title="" target="" id="Point01" url="{node1}"/>
+      <hotspot tilt="-81.77" skinid="ht_node" description="" pan="-30.79" title="" target="" id="Point02" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelingpitch="0" height="1250" leveltilesize="510" levelingroll="0" width="1250" leveltileurl="tiles/18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1250" width="1250" preload="0"/>
+      <level predecode="0" height="625" width="625" preload="0"/>
+      <level predecode="1" height="312" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="Рендеры" datetime="" title="Выключить основной свет гостиная от стола" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="36.47" skinid="ht_node" description="" pan="7.43" title="" target="" id="Point01" url="{node8}"/>
+      <hotspot tilt="36.68" skinid="ht_node" description="" pan="-4.77" title="" target="" id="Point02" url="{node18}"/>
+      <hotspot tilt="-1.47" skinid="ht_node" description="" pan="-6.23" title="" target="" id="Point03" url="{node19}"/>
+      <hotspot tilt="-7.78" skinid="ht_node" description="" pan="-36.75" title="" target="" id="Point04" url="{node21}"/>
+      <hotspot tilt="-9.84" skinid="ht_node" description="" pan="160.37" title="" target="" id="Point05" url="{node13}"/>
+      <hotspot tilt="-8.02" skinid="ht_node" description="" pan="-146.05" title="" target="" id="Point06" url="{node5}"/>
+      <hotspot tilt="-81.86" skinid="ht_node" description="" pan="-164.75" title="" target="" id="Point07" url="{node11}"/>
+      <hotspot tilt="-6.79" skinid="ht_node" description="" pan="-178.7" title="" target="" id="Point08" url="{node23}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelingpitch="0" height="1250" leveltilesize="510" levelingroll="0" width="1250" leveltileurl="tiles/19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1250" width="1250" preload="0"/>
+      <level predecode="0" height="625" width="625" preload="0"/>
+      <level predecode="1" height="312" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="Рендеры" datetime="" title="Выключить основной свет спальня" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="32.77" skinid="ht_node" description="" pan="9.49" title="" target="" id="Point01" url="{node7}"/>
+      <hotspot tilt="33.27" skinid="ht_node" description="" pan="-3.25" title="" target="" id="Point02" url="{node16}"/>
+      <hotspot tilt="-28.33" skinid="ht_node" description="" pan="0.57" title="" target="" id="Point03" url=""/>
+      <hotspot tilt="-8.89" skinid="ht_node" description="" pan="-87.64" title="" target="" id="Point04" url="{node14}"/>
+      <hotspot tilt="-9.02" skinid="ht_node" description="" pan="-138.79" title="" target="" id="Point05" url="{node6}"/>
+      <hotspot tilt="-81.19" skinid="ht_node" description="" pan="24.6" title="" target="" id="Point06" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelingpitch="0" height="1250" leveltilesize="510" levelingroll="0" width="1250" leveltileurl="tiles/20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1250" width="1250" preload="0"/>
+      <level predecode="0" height="625" width="625" preload="0"/>
+      <level predecode="1" height="312" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="2024:11:23 17:51:59" title="ВЫключить основной свет спальня вид от кровати" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="-51.24" skinid="ht_node" description="" pan="4.27" title="" target="" id="Point01" url="{node11}"/>
+      <hotspot tilt="-6.46" skinid="ht_node" description="" pan="10.95" title="" target="" id="Point02" url="{node6}"/>
+      <hotspot tilt="-6.79" skinid="ht_node" description="" pan="41.91" title="" target="" id="Point03" url="{node14}"/>
+      <hotspot tilt="40.8" skinid="ht_node" description="" pan="10.04" title="" target="" id="Point04" url="{node17}"/>
+      <hotspot tilt="40.83" skinid="ht_node" description="" pan="-5.79" title="" target="" id="Point05" url="{node12}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelingpitch="0" height="1250" leveltilesize="510" levelingroll="0" width="1250" leveltileurl="tiles/21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1250" width="1250" preload="0"/>
+      <level predecode="0" height="625" width="625" preload="0"/>
+      <level predecode="1" height="312" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="2024:11:23 19:30:21" title="Выключить основное освещение санузел" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="-9.14" skinid="ht_node" description="" pan="82.3" title="" target="" id="Point01" url="{node24}"/>
+      <hotspot tilt="62.24" skinid="ht_node" description="" pan="-7.17" title="" target="" id="Point02" url="{node3}"/>
+      <hotspot tilt="-5.72" skinid="ht_node" description="" pan="-117.27" title="" target="" id="Point03" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelingpitch="0" height="1250" leveltilesize="510" levelingroll="0" width="1250" leveltileurl="tiles/22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="0.400" overlap="1">
+      <level predecode="0" height="1250" width="1250" preload="0"/>
+      <level predecode="0" height="625" width="625" preload="0"/>
+      <level predecode="1" height="312" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata description="" author="" tags="3д тур" datetime="2024:11:23 19:39:50" title="ВЫключить основное освещение душевая" info="" copyright="" comment="" latitude="" source="" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" width="180" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot tilt="54.02" skinid="ht_node" description="" pan="22.34" title="" target="" id="Point01" url="{node4}"/>
+      <hotspot tilt="-79.88" skinid="ht_node" description="" pan="5.93" title="" target="" id="Point02" url="{node11}"/>
+      <hotspot tilt="-3.73" skinid="ht_node" description="" pan="-87.77" title="" target="" id="Point03" url="{node23}"/>
+      <hotspot tilt="-10.5" skinid="ht_node" description="" pan="-104.26" title="" target="" id="Point04" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" blendtime="1" zoomfov="20"/>
+    <control invertwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" hideabout="0" simulatemass="1"/>
+  </panorama>
+</tour>
